@@ -12,7 +12,7 @@ Main Topic : Question Answering (Seungone Kim) & Knowledge Distilation (Sejune J
 Among the 4 members, Seungone Kim and Sejune Joo participated in this topic! <br>
 <br>
 **[About this repository]** <br>
-This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season3(2022.01.01~2022.03.01). Our Main Topic was Question Answering and the various techniques needed to solve QA. We have covered 23 papers in total! <br>
+This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season3(2022.01.01~2022.03.01). Our Main Topic was Question Answering and Knowledge Distilation. We have covered 23 papers in total! <br>
 <br>
 ## About the Members
 * [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
