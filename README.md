@@ -7,12 +7,12 @@ Then, each student gets to present about the topic he prepared for. <br>
 After the presentation, all the students discuss about that paper and share ideas. <br>
 <br>
 **[About Season 3]** <br>
-Yonsei NLP Study Season 2 (2022.01.01 ~ 2022.03.01) <br>
-Main Topic : Question Answering <br>
+Yonsei NLP Study Season 3 (2022.01.01 ~ 2022.03.01) <br>
+Main Topic : Question Answering (Seungone Kim) & Knowledge Distilation (Sejune Joo) <br>
 Among the 4 members, Seungone Kim and Sejune Joo participated in this topic! <br>
 <br>
 **[About this repository]** <br>
-This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season2(2021.09.08~2021.11.17). Our Main Topic was Question Answering and the various techniques needed to solve QA. We have covered 55 papers in total! <br>
+This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season3(2022.01.01~2022.03.01). Our Main Topic was Question Answering and the various techniques needed to solve QA. We have covered 23 papers in total! <br>
 <br>
 ## About the Members
 * [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
@@ -31,7 +31,7 @@ This repository contains presentation materials, links to presentation videos, a
 * [Open Domain Question Answering (Part3) (Seungone Kim)](https://www.youtube.com/watch?v=MvUQiX1L0OI)
 
 ## List of Papers we covered
-The following are the list of 19 papers <br>
+The following are the list of 23 papers <br>
 
 ### TALK 1 : Shortcut Learning in QA (Seungone Kim)
 * [Avoiding reasoning shortcuts : Adversarial evaluation, training, and model development for multi-hop QA](https://aclanthology.org/P19-1262.pdf)
@@ -61,3 +61,9 @@ The following are the list of 19 papers <br>
 * [Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://aclanthology.org/2021.emnlp-main.292.pdf)
 * [HopRetriever : Retrieve hops over Wikipedia to Answer Complex Questions](https://www.aaai.org/AAAI21Papers/AAAI-6577.ShaoboL.pdf)
 * [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
+
+### TALK 6 : Knowledge Distilation (Sejune Joo)
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+* [Dynamic Knowledge Distilation for Pre-trained Language Models](https://arxiv.org/abs/2109.11295)
+* [FastBERT : a self-distilling BERT with Adaptive Inference Time](https://arxiv.org/abs/2004.02178)
+* [TinyBERT : Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
